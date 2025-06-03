@@ -78,8 +78,8 @@ loss, mae, mse = model.evaluate(test_dataset, test_labels)
 - MAE final: 3243.73 dólares
 - Condición cumplida: MAE < 3500
 - Mensaje: You passed the challenge. Great job!
-- Gráfica
-![image](https://github.com/user-attachments/assets/a2c619b4-c8e6-4b86-ad9a-53c1af024b61)
+- Gráfica:<br>
+![image](https://github.com/user-attachments/assets/a2c619b4-c8e6-4b86-ad9a-53c1af024b61)<br>
 Además, se generó una gráfica de dispersión entre los valores reales y las predicciones del modelo.
 
 ## 🧾 Conclusión

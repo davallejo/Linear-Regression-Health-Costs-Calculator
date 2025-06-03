@@ -78,8 +78,9 @@ loss, mae, mse = model.evaluate(test_dataset, test_labels)
 - MAE final: 3243.73 dólares
 - Condición cumplida: MAE < 3500
 - Mensaje: You passed the challenge. Great job!
-Además, se generó una gráfica de dispersión entre los valores reales y las predicciones del modelo.
+- Gráfica
 ![image](https://github.com/user-attachments/assets/a2c619b4-c8e6-4b86-ad9a-53c1af024b61)
+Además, se generó una gráfica de dispersión entre los valores reales y las predicciones del modelo.
 
 ## 🧾 Conclusión
 Este proyecto demuestra cómo aplicar técnicas de regresión y preprocesamiento de datos para construir un modelo predictivo eficiente. Se logró un desempeño óptimo al combinar normalización, codificación categórica, y regularización con capas Dropout. El modelo puede ser utilizado como base para sistemas de predicción de costos médicos más complejos.
